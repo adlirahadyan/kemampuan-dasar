@@ -1,0 +1,60 @@
+ Volume in drive C is SYSTEM
+ Volume Serial Number is 9209-5654
+
+ Directory of C:\Users\TeknikSipil
+
+24/03/2021  14:37    <DIR>          .
+24/03/2021  14:37    <DIR>          ..
+27/02/2021  21:55             1.093 .bash_history
+24/03/2021  14:38    <DIR>          .conda
+13/03/2021  15:58                43 .condarc
+14/02/2021  12:15                62 .gitconfig
+13/03/2021  16:57    <DIR>          .ipynb_checkpoints
+12/01/2021  06:44    <DIR>          .ipython
+06/02/2021  18:11    <DIR>          .jupyter
+26/01/2021  07:30    <DIR>          .matplotlib
+28/02/2021  13:31    <DIR>          .pylint.d
+20/12/2020  12:40    <DIR>          .vscode
+24/03/2021  14:34    <DIR>          1
+24/03/2021  11:47    <DIR>          Academy
+24/03/2021  14:41                12 adli_sukses.txt
+24/03/2021  13:00                13 akusukses.txt
+27/02/2021  21:44             2.911 Aplikasi Kontak Berhasil.ipynb
+27/02/2021  21:39             2.201 Aplikasi Kontak Gagal.ipynb
+27/02/2021  21:44             3.078 Aplikasi Kontak.ipynb
+02/09/2019  13:24    <DIR>          Contacts
+21/02/2021  10:16               941 continue.ipynb
+13/01/2021  07:00               232 debug.log
+23/02/2021  19:56    <DIR>          Desktop
+11/01/2021  16:30    <DIR>          Documents
+24/03/2021  10:50    <DIR>          Downloads
+02/09/2019  13:24    <DIR>          Favorites
+24/03/2021  14:11    <DIR>          FILE
+21/02/2021  09:20             2.486 for_range.ipynb
+13/11/2015  15:45    <DIR>          Impostazioni locali
+14/01/2021  21:43             2.992 Latihan-1.ipynb
+02/09/2019  13:24    <DIR>          Links
+02/09/2019  13:24    <DIR>          Music
+13/03/2021  18:07            19.116 Pertemuan-1.ipynb
+21/02/2021  12:52             5.009 Pertemuan_3.ipynb
+21/02/2021  14:18             8.949 Pertemuan_4.ipynb
+18/03/2020  11:22    <DIR>          Pictures
+24/03/2021  14:21    <DIR>          Praxis
+24/03/2021  11:28                27 PRAXIS.txt
+24/03/2021  13:51    <DIR>          Praxis_
+02/09/2019  13:24    <DIR>          Saved Games
+04/02/2021  10:48    <DIR>          seaborn-data
+02/09/2019  13:24    <DIR>          Searches
+20/02/2021  13:09               899 Soal-[1].ipynb
+20/02/2021  12:01             1.287 Soal-[3].ipynb
+27/02/2021  21:39             2.598 Tugas orang lain.ipynb
+11/01/2021  16:49                72 Untitled-2.ipynb
+25/01/2021  13:59             2.478 Untitled1.ipynb
+06/02/2021  18:17             8.798 Untitled2.ipynb
+27/02/2021  19:08             1.759 Untitled4.ipynb
+21/02/2021  13:06               590 Untitled6.ipynb
+27/02/2021  20:51                72 Untitled7.ipynb
+20/03/2020  16:20    <DIR>          Videos
+21/02/2021  10:12               891 while.ipynb
+              26 File(s)         68.609 bytes
+              27 Dir(s)  50.940.502.016 bytes free

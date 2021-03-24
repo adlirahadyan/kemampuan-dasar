@@ -1,0 +1,1 @@
+for FILE in `ls *.java`; do echo "Ada file java pada direktori $PWD"; done
